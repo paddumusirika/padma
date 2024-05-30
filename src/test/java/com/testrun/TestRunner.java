@@ -6,7 +6,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="C:\\Users\\Admin\\eclipse-workspace\\cucumbar\\Feature\\Cucumbe.feature",glue="step_defination")
+@CucumberOptions(features="C:\\Users\\Admin\\eclipse-workspace\\cucumbar\\Feature\\padma.feature",glue="step_defination")
 public class TestRunner{
 
 	
